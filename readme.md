@@ -3,7 +3,7 @@
 Spring PetClinic Sample Application
 
 # Developer Workspace
-[![Contribute](http://codeready-codeready.apps.ocpcloudsolutions.com/factory/resources/factory-contribute.svg)](http://codeready-codeready.apps.ocpcloudsolutions.com/f?id=factorymtyoro1y0qt8tq2j)
+[![Contribute](http://codeready-codeready.apps.ocpcloudsolutions.com/factory/resources/factory-contribute.svg)](http://codeready-codeready.apps.ocpcloudsolutions.com/f?url=https://github.com/dmhumph/web-java-spring-petclinic)
 
 This Eclipse Che Factory can also be invoked with any host:
 {hostURL}/f?url=https://github.com/che-samples/web-java-spring-petclinic
